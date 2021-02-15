@@ -10,7 +10,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "C:/Users/toddj/OneDrive/Documents/Python Scripts/MIT 6.000x/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
